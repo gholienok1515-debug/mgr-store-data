@@ -1,0 +1,21 @@
+[
+  {
+    "Id": 1,
+    "Name": "MGR Core Engine",
+    "Description": "Приватный чит-плагин. Инжектится прямо в память игры.",
+    "InstallType": "INJECT",
+    "Price": 350,
+    "ImgUrl": "https://raw.githubusercontent.com/tensorspace-team/tensorspace/master/assets/img/logo/ts.png",
+    "FileUrl": "https://example.com/files/mgr_core.asi"
+  },
+  {
+    "Id": 2,
+    "Name": "Render Hook DX11",
+    "Description": "Полная замена графического движка игры на DirectX 11 с крутыми тенями.",
+    "InstallType": "ASI",
+    "Price": 0,
+    "ImgUrl": "https://raw.githubusercontent.com/tensorspace-team/tensorspace/master/assets/img/logo/ts.png",
+    "FileUrl": "https://example.com/files/renderhook.asi",
+    "TargetFileName": "renderhook.asi"
+  }
+]
