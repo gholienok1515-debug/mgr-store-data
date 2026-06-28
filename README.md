@@ -1,0 +1,1 @@
+# mgr-store-data
