@@ -5,7 +5,7 @@
     "Description": "Приватный чит-плагин. Инжектится прямо в память игры.",
     "InstallType": "INJECT",
     "Price": 350,
-    "ImgUrl": "https://github.com/gholienok1515-debug/mgr-store-data/blob/main/pngtree-picture-of-a-blue-bird-on-a-black-background-image_2937385.jpg",
+    "ImgUrl": "https://raw.githubusercontent.com/tensorspace-team/tensorspace/master/assets/img/logo/ts.png",
     "FileUrl": "https://example.com/files/mgr_core.asi"
   },
   {
